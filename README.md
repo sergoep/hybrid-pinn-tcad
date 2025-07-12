@@ -1,5 +1,5 @@
 # Hybrid PINN for TCAD Acceleration
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_username/hybrid-pinn-tcad/blob/main/hybrid_pinn_tcad.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EArmen/hybrid-pinn-tcad/blob/main/hybrid_pinn_tcad.ipynb)
 
 ## Reproducibility package for "Hybrid Physics-Informed Neural Networks for Industrial-Grade p-n Junction Simulation"
 
